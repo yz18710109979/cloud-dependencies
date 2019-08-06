@@ -9,7 +9,7 @@
 		<artifactId>cloud-dependencies</artifactId>
 		<version>0.0.1</version>
 	</parent>
-	<artifactId>cloud-eureka-7001</artifactId>
+	<artifactId>cloud-eureka-7002</artifactId>
 	<dependencies>
 		<!--eureka-server服务端 -->
 		<dependency>
